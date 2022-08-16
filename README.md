@@ -8,9 +8,9 @@ This game was created for educational purpose
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js&theme=dark)
 
-### Visit :- [Save the Dinosaur](https://angkush.vercel.app/)
+### Visit :- [Save the Dinosaur](https://angkushsahu.github.io/save-the-dinosaur/)
 
-![Save the Dinosaur](https://res.cloudinary.com/dvhucdquc/image/upload/v1648666838/ProjectsHomeImages/Screenshot_227_zehq6m.png)
+![Save the Dinosaur](https://res.cloudinary.com/dvhucdquc/image/upload/v1660664423/other-projects/dino_yfdsis.png)
 
 ## Install
 
